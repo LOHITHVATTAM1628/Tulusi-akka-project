@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/
+reports/*.pdf
+reports/*.xlsx
+*.log
+.DS_Store
